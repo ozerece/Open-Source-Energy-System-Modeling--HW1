@@ -13,7 +13,7 @@ def norm_df(df):
 
 #Function 2 (Interpolate the final energy consumption for BE between 2000-2050 )
 
-data=pd.read_csv(r'C:\Users\Özer\Desktop\Projects\Invert\Calibration of the base year\Subtract_CookCool.csv', index_col=0)
+data=pd.read_csv("func2_Subtract_CookCool.csv", index_col=0)
 country=["BE"]
 
 fuel=["coal", "fuel oil", "gas" ,"Electricity", "District heating", "biomass"]
