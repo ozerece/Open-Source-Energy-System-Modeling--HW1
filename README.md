@@ -22,7 +22,7 @@ limitations under the License.
 
 ## Description
 
-Functions included in this assignment are taken from my doctoral research.
+Functions included in this assignment are taken from my doctoral research. **Functions are stored in the utils.py file.**
 
 ### Function 1 : norm_df()
 
