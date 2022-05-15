@@ -22,6 +22,8 @@ limitations under the License.
 
 ## Description
 
+Functions included in this assignment are taken from my doctoral research.
+
 ### Function 1 : norm_df()
 
 - In this function, I'm normalizing the hourly domestic hot water demand of Belgium by dividing each hourly demand by the total demand (sum of all hourly demand).
