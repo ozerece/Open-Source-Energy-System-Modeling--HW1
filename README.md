@@ -38,4 +38,4 @@ Functions included in this assignment are taken from my doctoral research. **Fun
 - **Input data** of this function is _func2_BE_fed.csv_.
 - **Unittest file** of this function is _test_interpolate.py_.
 - In the unittest, I calculated the difference between years in 5-years interval (eg. 2000-2005; 2005-2010; 2040-2045; 2045-2050), and added the sum of differences to first known year.
-- ** For example**, let's look at time interval 2000-2005. I have demand data for 2000 and 2005, and interpolated the demand for years 2001, 2002, 2003 and 2004. To check my function, I calculated the yearly difference in this time interval (2000-2005) and added the sum of the differences in the value of 2000. If this value is equal to 2005, this means that my function is working properly.
+- **For example**, let's look at time interval 2000-2005. I have demand data for 2000 and 2005, and interpolated the demand for years 2001, 2002, 2003 and 2004. To check my function, I calculated the yearly difference in this time interval (2000-2005) and added the sum of the differences in the value of 2000. If this value is equal to 2005, this means that my function is working properly.
